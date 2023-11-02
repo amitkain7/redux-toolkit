@@ -1,8 +1,8 @@
-# React + Vite
+# React + redux
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Replicate a cart E-commerce Cart functionality using redux State management library with react.js
+functionality
+1. you can add item to cart
+2. remove item from cart
+3. get total of all item
+4. remove all item from cart
